@@ -1,20 +1,22 @@
-import { useState } from 'react'
-import './App.css'
-import NavBar from './components/Navbar/NavBar'
-import ItemListContainer from './components/ItemListContainer/ItemListContainer'
+
+import './App.css';
+import NavBar from './components/Navbar/NavBar';
+import ItemListContainer from './components/ItemListContainer/ItemListContainer';
+import ItemCount from './components/ItemCount/ItemCount';
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
       <NavBar />
       <div>
-      < ItemListContainer title={'Bienvenidos a ConcorCase'}/>
+      <ItemListContainer title={'Bienvenidos a ConcorCase'}/>
+      <ItemCount initial={1} stock={12} onAdd={(quantity) => console.log('Cantidad Agregada ',quantity)}/>
       </div>
      
     </>
-  )
+  );
 }
 
 export default App
