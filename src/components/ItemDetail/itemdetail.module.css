@@ -1,0 +1,15 @@
+.CardItem {
+   background-color: bisque;
+   border: 3px solid black;
+   width: 250px;
+   display: inline-block;
+   margin: 20px;
+   
+   
+}
+
+.ItemImg{
+   background-color: bisque;
+    width: 200px;
+    border: 2px solid black;
+}

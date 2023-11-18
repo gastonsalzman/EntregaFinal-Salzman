@@ -1,0 +1,14 @@
+.CardItem{
+    background-color: bisque;
+    width: 200px;
+    border: 2px solid black;
+}
+
+.Option{
+    background-color: seagreen;
+}
+
+.ItemImg{
+    width: 50%;
+    height: 30%;
+}
