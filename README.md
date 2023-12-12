@@ -6,15 +6,15 @@ Bienvenido al repositorio de mi proyecto de ventas de Celulares y Productos de a
 
 ## Captura de Pantalla 1
 
-<img src="[![Cap1.png](https://i.postimg.cc/WzMHwKXP/Cap1.png)](https://postimg.cc/H8kzp6qS)" alt="captura 1" style= "width:600px">
+[![Cap1.png](https://i.postimg.cc/WzMHwKXP/Cap1.png)](https://postimg.cc/H8kzp6qS)
 
 ## Captura de Pantalla 2
 
-<img src="[![Cap2.png](https://i.postimg.cc/v89kygMS/Cap2.png)](https://postimg.cc/23k2F514)" alt="captura 2" style= "width:600px">
+[![Cap2.png](https://i.postimg.cc/v89kygMS/Cap2.png)](https://postimg.cc/23k2F514)
 
 ## Captura de Pantalla 3
 
-<img src="[![Cap3.png](https://i.postimg.cc/rFkbwVwy/Cap3.png)](https://postimg.cc/PNSK6kD0)" alt="captura 3" style= "width:600px">
+[![Cap3.png](https://i.postimg.cc/rFkbwVwy/Cap3.png)](https://postimg.cc/PNSK6kD0)
 
 ## Tecnologías Utilizadas 
 
