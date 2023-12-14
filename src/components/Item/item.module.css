@@ -1,14 +1,37 @@
 .CardItem{
     background-color: bisque;
-    width: 200px;
+    width: 350px;
     border: 2px solid black;
 }
 
-.Option{
-    background-color: seagreen;
+.CardItem:hover{
+    box-shadow: 5px 5px 20px black;
+    transform: translateY(-3%);
 }
 
+.Option{
+    display: inline-block;
+    padding: 10px 5%;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    color: white;
+    font-weight: normal;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: black;
+    
+
+}
+
+.Option:hover {
+    background-color: seagreen;
+  }
+
 .ItemImg{
-    width: 50%;
-    height: 30%;
+    width: 60%;
+    height: 50%;
+}
+
+.Info3{
+    font-size: 9px;
 }

@@ -12,7 +12,7 @@ const products = [
     },
     {
         id:'2',
-        name:'iPad 10.9" Wi-Fi 64 GB',
+        name:'iPad 10.9 Wi-Fi 64 GB',
         price:'489.999',
         category:'tablet',
         img: 'https://www.macstation.com.ar/img/productos/3068-4.jpg',
@@ -34,7 +34,7 @@ const products = [
     },
     {
         id:'4',
-        name:'MacBook Pro 13" M2 256 GB',
+        name:'MacBook Pro 13 M2 256 GB',
         price:'1.837.999',
         category:'tablet',
         img: "https://www.macstation.com.ar/img/productos/3009-mneh3le-a.jpg",

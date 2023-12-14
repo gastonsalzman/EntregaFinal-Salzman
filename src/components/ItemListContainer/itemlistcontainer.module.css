@@ -1,0 +1,27 @@
+.separador{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: seagreen;
+    height: 35px;
+    margin: 20px;
+    color: white;
+  }
+  
+
+
+.Iconos{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 20px;
+}
+
+.Iconos>div{
+  flex: 0 0 calc(25% - 15px);
+  text-align: center;
+}
+
+.Img{
+  width: 20%;
+
+}

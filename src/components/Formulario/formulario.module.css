@@ -1,0 +1,43 @@
+.Formulario {
+    border: 3px solid black;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    height: auto;
+    width: 400px;
+    display: inline-block;   
+    margin: 10px; 
+   
+
+}
+.Port1{
+    max-width: 100%;
+    height: auto;
+    margin: 10px;
+}
+
+.Nombre{
+    margin: 10px;
+}
+
+
+.Direccion{
+    margin: 10px;
+}
+
+.Email{
+    margin: 10px;
+}
+
+.Edad{
+    margin: 10px;
+}
+
+.Pais{
+    margin: 10px;
+}
+
+.Telefono{
+    margin: 10px;
+}
+

@@ -1,7 +1,8 @@
 #root {
   max-width: 100%;
-  margin: 0 auto;
+  margin: 0 ;
   text-align: center;
+  padding: 0;
 }
 
 .logo {
@@ -40,12 +41,3 @@
   color: #888;
 }
 
-.separador{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: seagreen;
-  height: 35px;
-  margin: 20px;
-  color: white;
-}

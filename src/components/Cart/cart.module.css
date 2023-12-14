@@ -1,0 +1,62 @@
+.Cart{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    border: 2px solid black;
+    justify-content: space-around;
+    background-color: slategray;
+    margin: 10px;
+}
+
+.Checkout{
+    outline: none;
+    display: inline-block;
+    padding: 10px 5%;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    color: white;
+    font-weight: normal;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    margin: 100px;
+ }
+
+ 
+
+.carritoVacio{
+    width: 15%;
+    height: 300px;
+    
+}
+.h2{
+    text-decoration: underline;
+}
+    
+.img{
+    display: flex;
+    justify-content: center;
+    margin-right: 35px;
+}   
+   
+
+ .btn {
+    border: none; 
+    color: white; 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    margin: 10px;
+}
+.btn:hover {background: seagreen;}
+
+.h3{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.Total{
+    display: flex;
+    flex-direction: column;
+    margin: 120px;
+}
