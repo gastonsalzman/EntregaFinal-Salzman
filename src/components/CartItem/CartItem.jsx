@@ -1,8 +1,8 @@
 import { useContext } from 'react'
 import { CartContext } from '../../context/CartContext'
 import { Link } from 'react-router-dom'
-import Cart from '../Cart/cart';
-import Item from '../Item/item';
+import Cart from '../Cart/Cart';
+import Item from '../Item/Item';
 import styles from '../CartItem/cartitem.module.css'
 
 
